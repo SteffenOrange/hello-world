@@ -1,3 +1,2 @@
 # hello-world
-First Git labbing
-#This is my first branch & branch edit
+Azure System Consultant in the Public Cloud department at Orange Business Norway
